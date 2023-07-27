@@ -1,5 +1,6 @@
 {
   "name": "2048ETH",
+  "homepage": "https://eth2048.github.io/eth2048",
   "version": "0.1.0",
   "license": "MIT",
   "dependencies": {
